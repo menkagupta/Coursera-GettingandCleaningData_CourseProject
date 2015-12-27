@@ -3,9 +3,6 @@
 #Getting ready, load plyr
 library(plyr)
 
-#set working directory to the folder where you have all the files
-setwd("C:/Users/mgupta1/Documents/VSSworking/Training/GettingAndCleaningData/UCI HAR Dataset")
-
 #Step 1 - Merge the training and the test sets to create one data set
 #------------------------------------------------------------------------------#
 
